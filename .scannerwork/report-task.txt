@@ -1,0 +1,6 @@
+projectKey=admin
+serverUrl=http://localhost:9004
+serverVersion=9.0.1.46107
+dashboardUrl=http://localhost:9004/dashboard?id=admin
+ceTaskId=AXvoMU_oAT9MJ4IlINE1
+ceTaskUrl=http://localhost:9004/api/ce/task?id=AXvoMU_oAT9MJ4IlINE1

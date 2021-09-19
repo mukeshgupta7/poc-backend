@@ -1,0 +1,13 @@
+com\poc\config\WebSecurityConfig.class
+com\poc\config\MyUserDetailsService.class
+com\poc\EcommerceApplication.class
+com\poc\model\Book.class
+com\poc\config\models\AuthenticationRequest.class
+com\poc\controller\BookController.class
+com\poc\model\User.class
+com\poc\controller\UserController.class
+com\poc\repo\UserRepository.class
+com\poc\config\util\JwtUtil.class
+com\poc\repo\BookRepository.class
+com\poc\config\filters\JwtRequestFilter.class
+com\poc\config\models\AuthenticationResponse.class

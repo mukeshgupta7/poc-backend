@@ -1,0 +1,6 @@
+projectKey=com.javainuse:boot-ecommerce
+serverUrl=http://localhost:9004
+serverVersion=9.0.1.46107
+dashboardUrl=http://localhost:9004/dashboard?id=com.javainuse%3Aboot-ecommerce
+ceTaskId=AXvoJPuvAT9MJ4IlINE0
+ceTaskUrl=http://localhost:9004/api/ce/task?id=AXvoJPuvAT9MJ4IlINE0
