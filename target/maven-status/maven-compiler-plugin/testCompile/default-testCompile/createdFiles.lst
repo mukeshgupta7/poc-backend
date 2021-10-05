@@ -1,2 +1,4 @@
+com\poc\controller\BookControllerTest.class
 com\poc\SmokeTest.class
 com\poc\TestingWebApplicationTest.class
+com\poc\controller\UserControllerTest.class
